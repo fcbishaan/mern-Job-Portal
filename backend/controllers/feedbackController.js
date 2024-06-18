@@ -1,4 +1,4 @@
-// controllers/feedbackController.js
+
 import { Feedback } from '../models/feedbackSchema.js';
 import { catchAsyncErrors } from '../middlewares/catchAsyncError.js';
 import ErrorHandler from '../middlewares/error.js';
